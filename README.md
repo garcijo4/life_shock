@@ -7,6 +7,13 @@ This is an interactive web application that helps students practice zero-based b
 - **Life Shock Generator**: Randomly encounter a "life shock" (e.g., car repair, medical bill) and adjust the budget to absorb it.
 - **Stress Test Defense**: Write 3-4 sentences defending the two choices changed in the budget and explaining why.
 
+## Live Demo
+Launch the simulator directly here: [https://life-shock.vercel.app](https://life-shock.vercel.app)
+*(Note: Update this link if your Vercel deployment URL differs)*
+
+Alternatively, you can instantly run the code in your browser without installing anything using StackBlitz:
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/garcijo4/life_shock)
+
 ## Repository
 You can find the project repository here: [https://github.com/garcijo4/life_shock](https://github.com/garcijo4/life_shock)
 
